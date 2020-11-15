@@ -1,2 +1,2 @@
 # Twitter-Analysis
-Did analysis for Tweets.
+analyzed the tweets. 
